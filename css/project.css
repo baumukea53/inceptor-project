@@ -1,0 +1,45 @@
+body{
+    margin-left: 12px;
+    margin-right: 12px;
+    background: #f8f9fa;
+}
+.topmenu{
+    background: peru;
+    justify-content: center;
+    color: black;
+}
+.navbar-brand{
+    font-family: sans-serif;
+    color: #0b2e13;
+}
+.dropdown-menu{
+    color: #040505;
+}
+.progress{
+    width: 80%;
+}
+.kin{
+    background: #e4606d;
+    width: 60%;
+}
+.cnt{
+    width: 40%;
+}
+.ghg{
+    width: 80%;
+}
+label{
+    font-family: sans-serif;
+    color: black;
+    font-size: 18px;
+}
+hr{
+    border: 4px solid #b21f2d;
+    width: 90%;
+}
+.jk{
+    color: #1c7430;
+}
+.pn{
+    color: #533f03;
+}

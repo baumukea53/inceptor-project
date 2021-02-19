@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09da848b-dad9-46ee-b64e-78bbf443503c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ntBWWBsL0B1wZo1tUl9Fpl1kiy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ANTHONY B\PhpstormProjects\bootsrap1\images" />
+      <recent name="C:\Users\ANTHONY B\PhpstormProjects\bootsrap1\images\images2" />
+      <recent name="C:\Users\ANTHONY B\PhpstormProjects\bootsrap1\bootstrap\js" />
+      <recent name="C:\Users\ANTHONY B\PhpstormProjects\bootsrap1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09da848b-dad9-46ee-b64e-78bbf443503c" name="Default Changelist" comment="" />
+      <created>1612199541543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612199541543</updated>
+      <workItem from="1612199543305" duration="8899000" />
+      <workItem from="1612244150773" duration="1938000" />
+      <workItem from="1612264367909" duration="875000" />
+      <workItem from="1612270639262" duration="133000" />
+      <workItem from="1612286369019" duration="9098000" />
+      <workItem from="1612350769214" duration="1157000" />
+      <workItem from="1612595418289" duration="2075000" />
+      <workItem from="1612719659674" duration="9114000" />
+      <workItem from="1612761413868" duration="4090000" />
+      <workItem from="1612803883666" duration="9244000" />
+      <workItem from="1612848406249" duration="2349000" />
+      <workItem from="1612891006637" duration="11756000" />
+      <workItem from="1612935346757" duration="4201000" />
+      <workItem from="1612940648324" duration="5017000" />
+      <workItem from="1612955526619" duration="1359000" />
+      <workItem from="1612977847768" duration="222000" />
+      <workItem from="1613120875387" duration="632000" />
+      <workItem from="1613151893933" duration="442000" />
+      <workItem from="1613153258224" duration="349000" />
+      <workItem from="1613153866646" duration="248000" />
+      <workItem from="1613154339969" duration="775000" />
+      <workItem from="1613155736855" duration="168000" />
+      <workItem from="1613157101862" duration="321000" />
+      <workItem from="1613157677070" duration="498000" />
+      <workItem from="1613159565222" duration="510000" />
+      <workItem from="1613728681162" duration="277000" />
+      <workItem from="1613729409853" duration="27000" />
+      <workItem from="1613730136291" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1613729448793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613729448793" />
+  </component>
+</project>

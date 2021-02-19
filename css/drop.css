@@ -1,0 +1,76 @@
+body{
+    background: #d4edda;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 5px;
+}
+.topmenu{
+    background: dodgerblue;
+}
+table, tr, th, td{
+    border: 2px solid #17a2b8;
+    border-collapse: collapse;
+}
+table{
+    width: 100%;
+}
+th{
+    height: 80px;
+    padding: 20px;
+    background: #e4606d;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+td{
+    height: 40px;
+    text-justify: none;
+    color: #121416;
+}
+tr:hover{
+    background: #ba8b00;
+}
+tr:nth-child(odd){
+    background: darkred;
+}
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    color: black;
+}
+hr{
+    border: 5px solid darkred;
+}
+.topheqder{
+    text-align: center;
+    color: #0b2e13;
+}
+.row{
+    width: 100%;
+    display: flex;
+}
+.contactus{
+    width: 80%;
+    background: #f1b0b7;
+border-radius: 20px;
+    padding: 3px;
+}
+.li{
+    padding-left: 20px;
+    padding-top: 30px;
+    text-align: center;
+}
+.buttonn{
+    display: flex;
+    text-align: center;
+}
+input[type= submit]:hover{
+    background: #3dcab5;
+    color: white;
+    text-align: center;
+}
+.col-sm-4{
+    font-family: sans-serif;
+    text-justify: none;
+    font-size: 13px;
+    display: flex;
+}
